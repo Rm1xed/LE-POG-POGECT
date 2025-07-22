@@ -1,1 +1,2 @@
-x = 1
+Krishna = 11920
+print(Krishna)
