@@ -1,0 +1,11 @@
+course = "Python being pogged to the pog"
+print(len(course))
+print(course[0])
+print(course[0:-11])
+print(course[0:6])
+print(course[0]) 
+print(course[0:2])
+print(course[0:3])
+print(course[0:4])
+print(course[0:5])
+print(course[0:6])
